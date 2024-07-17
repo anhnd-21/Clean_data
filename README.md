@@ -93,10 +93,10 @@ FROM Houseselling
 
 	UPDATE ##DATA
 	SET SoldAsVacant = CASE		
-							WHEN SoldAsVacant = 'Yes' THEN 'Y'
-							WHEN SoldAsVacant = 'No' THEN 'N'
-							ELSE SoldAsVacant
-						END
+				WHEN SoldAsVacant = 'Yes' THEN 'Y'
+				WHEN SoldAsVacant = 'No' THEN 'N'
+				ELSE SoldAsVacant
+			END
 
 -- 5. REVOME DUPLICATE
 
