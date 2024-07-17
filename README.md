@@ -18,13 +18,13 @@ The project aims to clean data to make mapping more convenient through: data for
 
 # 3. Data source:
 
-Data on home sales in the US during the period 2013-2019.
+Data on home sales in Nashville during the period 2013-2019 with data size of 56,374 rows.
 - *Source: [Alex The Analyst](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)*
 
 # 4. Tools
 
 - Tools:
-  * SQL: JOIN, UPDATE, SUBSTRING, PARSENAME, WINDOW FUNCTION, CTE
+  * SQL: JOIN, UPDATE, SUBSTRING, PARSENAME, WINDOW FUNCTION, CTE.
 
 # 5. Code
 	
